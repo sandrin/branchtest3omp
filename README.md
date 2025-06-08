@@ -2,13 +2,6 @@
 a third branching test program, comparing compiler optimizations and openmp usage
 
 ```-------------------
-# branchtest3omp
-a third branching test program, comparing compiler optimizations and openmp usage
-
-
-# branchtest3omp
-a third branching test program, comparing compiler optimizations and openmp usage
-
 
                                           results from my 9950x3d compiled using clang with -O0/3 -march=x86-64-v4 -fopenmp                                       |                                      results from my 2x e5-2680v4 compiled using clang with -O0/3 -march=x86-64-v3 -fopenmp                                       |
 --------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
